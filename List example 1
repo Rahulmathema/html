@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		List
+	</title>
+</head>
+<body>
+	<ol type="1">
+		<li>Countries
+			<ol type="A" start="3">
+				<li>Nepal
+					<ul type="disc">
+						<li>Cities
+							<ol type="a">
+								<li>Kathmandu</li>
+								<li>Pokhara</li>
+							</ol>
+						</li>
+						<li>Mountains
+							<ul type="square">
+								<li>Everest</li>
+								<li>Annapurna</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li>India
+					<ul type="circle">
+						<li>Cities
+							<ol type="a" start="3">
+								<li>Delhi</li>
+								<li>Mumbai</li>
+							</ol>
+						</li>
+						<li>Mountains</li>
+					</ul>
+				</li>
+
+			</ol>
+		</li>
+		<li>Continents
+			<ol type="A" start="5">
+				<li>Asia</li>
+				<li>Africa</li>
+
+			</ol>
+		</li>
+	</ol>
+
+</body>
+</html>
